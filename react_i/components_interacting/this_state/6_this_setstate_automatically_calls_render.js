@@ -1,0 +1,3 @@
+// calls to `this.setState()` automatically call `render()`
+
+// if render calls this.setState(), it creates an infinite loop....
